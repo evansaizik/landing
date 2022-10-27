@@ -1,0 +1,10 @@
+.container {
+  background: rgb(91, 36, 36);
+  height: 2rem;
+}
+
+.container p {
+  color: antiquewhite;
+  text-align: center;
+  padding-top: .2rem;
+}

@@ -1,0 +1,38 @@
+.subheader {
+  background-color: rgb(250, 225, 215);
+  font-size: 2.5rem;
+}
+
+.subheader h2 {
+  text-align: center;
+  padding: 3rem;
+  font-size: 2.5rem;
+  text-transform: capitalize;
+}
+
+.container {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  height: 16rem;
+}
+
+.container div {
+  margin: 1rem;
+  width: 50%;
+  max-height: 15rem;
+}
+
+.container div img {
+  width: 100px;
+}
+
+.container div h4 {
+  margin: 1rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.container div p {
+  font-size: 1rem;
+}
